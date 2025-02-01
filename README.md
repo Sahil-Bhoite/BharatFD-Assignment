@@ -1,4 +1,6 @@
 # Multilingual FAQ Application
+<img width="1552" alt="Screenshot 2025-02-01 at 8 31 36 PM" src="https://github.com/user-attachments/assets/7cf349cd-c9fe-4127-8621-77a778dad83f" />
+<img width="1552" alt="Screenshot 2025-02-01 at 8 31 30 PM" src="https://github.com/user-attachments/assets/50e2064d-e0ca-4fc5-88ec-60a237ed23eb" />
 
 ## Overview
 
@@ -62,7 +64,7 @@ Open [http://localhost:8080](http://localhost:8080) in your browser
 
 ## Live Demo
 
-Access the live application [here](https://sahil-bhoite.github.io/Portfolio/)
+Access the live application [here](https://bharat-fd-assignment.vercel.app)
 
 
 ## Roadmap
