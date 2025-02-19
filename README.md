@@ -11,7 +11,7 @@ A modern multilingual FAQ application that enables users to view and search freq
 - Multilingual support (English, Hindi, Bengali, Spanish, French, Arabic, Chinese)
 - Real-time search functionality
 - Language switching via dropdown menu
-- Responsive design for all devices
+- Responsive design for all device
 - Expandable/collapsible FAQ accordion interface
 
 ## Tech Stack
